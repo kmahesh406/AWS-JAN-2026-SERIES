@@ -53,10 +53,10 @@ Tags are key-value labels used to identify and manage resources. They help with:
 ### Recommended tags for a training + project demo
 
 * `Name` = `My-Windows-demo`
-* `Project` = `WTC-project`
-* `Client` = `C1`
+* `Project` = `B2B-BSS`
+* `Client` = `jio`
 * `Platform` = `Windows`
-* `CostCenter` = `AAZAA`
+
 
 ### Why Tag Editor matters
 
